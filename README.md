@@ -9,7 +9,6 @@
 [![](https://github-stats-alpha.vercel.app/api?username=essacheez&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/essacheez)
 
 - 📖 Pursuing MS in Computer Science w/ Specialization in AI @ [Brown University](https://cs.brown.edu/).
-- 💡 Open to collaborating on projects and innovative ideas.
 - 💻 Currently interested in self-improvement, multiagent systems, RL, and AI safety.
 
 ## 📈 Stats
