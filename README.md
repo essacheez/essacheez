@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=Essa+Jan;MS+Student+%7C+Researcher+%7C+Engineer;ML+%7C+NLP+%7C+Data+Science)](https://git.io/typing-svg)
 
-<!--
-**essacheez/essacheez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/Website-essacheez.github.io-forest?style=flat-square)](https://essacheez.github.io/)
+[![](https://img.shields.io/badge/about-Resume-forest?style=flat-square)](https://drive.google.com/file/d/1dciUlT9pPOkJJypDHF5fxnQxPw5cilW5/view)
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/essa-jan/)
+[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/essacheez)
+[![](https://img.shields.io/badge/-Email-forest?style=flat-square&logo=gmail&logoColor=white)](mailto:essa_jan@brown.edu)
 
-Here are some ideas to get you started:
+[![](https://github-stats-alpha.vercel.app/api?username=essacheez&cc=22272e&tc=37BCF6&ic=fff&bc=0000)](https://github.com/essacheez)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Pursuing MS in Computer Science w/ Specialization in AI @ [Brown University](https://cs.brown.edu/).
+- 💡 Open to collaborating on projects and innovative ideas.
+- 💻 Currently interested in self-improvement, multiagent systems, RL, and AI safety.
+
+## 📈 Stats
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=essacheez&theme=dracula)](https://github.com/essacheez)
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=essacheez&theme=dracula)](https://github.com/essacheez)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=essacheez&theme=dracula)](https://github.com/essacheez)
