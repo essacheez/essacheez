@@ -13,7 +13,6 @@
 </div>
 
 - 📖 Pursuing MS in Computer Science with Specialization in AI @ [Brown University](https://cs.brown.edu/).
-- 💡 Open to collaborating on projects and innovative ideas.
 - 💻 Currently interested in self-improvement, multiagent systems, RL, and AI safety.
 
 <details>
